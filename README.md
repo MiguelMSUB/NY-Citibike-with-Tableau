@@ -25,12 +25,15 @@ We gather our data in 5 different Tableau dashboards where we can go deep into d
 ### 2 Top Start Locations
 
 ![This is an image](Resources/Startlocation.png)
+
 ### 3 Top End Locations
 
 ![This is an image](Resources/Endlocation.png)
+
 ### 4 Checkout times
 
 ![This is an image](Resources/checkout.png)
+
 ### 5 Trips by weekday
 
 ![This is an image](Resources/Weekday.png)
