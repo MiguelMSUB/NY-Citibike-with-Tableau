@@ -20,7 +20,7 @@ We gather our data in 5 different Tableau dashboards where we can go deep into d
 
 ### 1 Customer Profile
 
-![This is an image](Resources/customer.png)
+![This is an image](Resources/Checkout.png)
 
 ### 2 Top Start Locations
 
@@ -28,7 +28,7 @@ We gather our data in 5 different Tableau dashboards where we can go deep into d
 
 ### 3 Top End Locations
 
-![This is an image](Resources/endlocation.png)
+![This is an image](Resources/EndLocation.png)
 
 ### 4 Checkout times
 
